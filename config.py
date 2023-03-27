@@ -1,5 +1,5 @@
 #################################################################################################################
-#   Inserire i file html nella cartella templates con i nomi NAME_HOME.html, NAME_LOGIN.html e root.html                       #
+#   Inserire i file html nella cartella templates con i nomi NAME_HOME.html, NAME_LOGIN.html e root.html        #
 #   Nei file html, importare i file statici da static Es. "static/styles/login.css"                             #
 #   Dipendenze:     - Tornado Web, base64, uuid                                                                 #                                     
 #   Per il login usare input con id="username" e id="password"                                                  #
